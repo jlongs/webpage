@@ -1,0 +1,26 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "webpage",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jlongs/webpage.git"
+  },
+  "author": "fengpingping",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlongs/webpage/issues"
+  },
+  "homepage": "https://github.com/jlongs/webpage",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-less": "~0.11.0"
+  }
+}
